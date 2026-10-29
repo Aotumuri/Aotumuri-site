@@ -1,0 +1,123 @@
+{
+  "checkedAt": "2026-10-19",
+  "account": "Aotumuri",
+  "openfront": {
+    "repository": "openfrontio/OpenFrontIO",
+    "role": "Translation Lead",
+    "asOf": "2026年10月現在",
+    "mergedDisplay": "100+",
+    "mergedUrl": "https://github.com/openfrontio/OpenFrontIO/pulls?q=is%3Apr+author%3AAotumuri+is%3Amerged",
+    "examples": [
+      {
+        "number": 786,
+        "title": "領土のパターン表示（Patterned territory）",
+        "url": "https://github.com/openfrontio/OpenFrontIO/pull/786"
+      },
+      {
+        "number": 412,
+        "title": "クイックチャットの追加（Add quick chat）",
+        "url": "https://github.com/openfrontio/OpenFrontIO/pull/412"
+      }
+    ],
+    "mls": {
+      "name": "MLS Project",
+      "description": "OpenFrontの翻訳プロジェクトです。",
+      "links": [
+        {
+          "label": "Crowdin",
+          "url": "https://crowdin.com/project/openfront-mls"
+        },
+        {
+          "label": "Discord",
+          "url": "https://discord.gg/5V7Avk7FRd"
+        }
+      ]
+    }
+  },
+  "repositories": [
+    {
+      "name": "TerritoryConquestSimulator",
+      "url": "https://github.com/Aotumuri/TerritoryConquestSimulator",
+      "description": "自動で動くものが見たい人へ",
+      "language": "JavaScript",
+      "homepage": "https://aotumuri.github.io/TerritoryConquestSimulator/"
+    },
+    {
+      "name": "isekai-sim",
+      "url": "https://github.com/Aotumuri/isekai-sim",
+      "description": "自動で動くものが見たい人へ 2",
+      "language": "TypeScript",
+      "homepage": "https://aotumuri.github.io/isekai-sim/"
+    },
+    {
+      "name": "openfront-utility",
+      "url": "https://github.com/Aotumuri/openfront-utility",
+      "description": "This project is a tool for generating and previewing Openfront.io patterns in Base64 format.",
+      "language": "TypeScript",
+      "homepage": "https://aotumuri.github.io/openfront-utility/"
+    },
+    {
+      "name": "custom-flag-creator",
+      "url": "https://github.com/Aotumuri/custom-flag-creator",
+      "description": null,
+      "language": "JavaScript",
+      "homepage": "https://aotumuri.github.io/custom-flag-creator/"
+    },
+    {
+      "name": "openfront-game-bot",
+      "url": "https://github.com/Aotumuri/openfront-game-bot",
+      "description": "Discord bot that detects OpenFront join links and posts a game summary embed.",
+      "language": "Python",
+      "homepage": null
+    },
+    {
+      "name": "clitl",
+      "url": "https://github.com/Aotumuri/clitl",
+      "description": "clitl(cli-tool) is a collection of useful CLI utilities, including features like text gradients and other terminal effects.",
+      "language": "JavaScript",
+      "homepage": "https://www.npmjs.com/package/clitl"
+    },
+    {
+      "name": "cli-box-picker",
+      "url": "https://github.com/Aotumuri/cli-box-picker",
+      "description": null,
+      "language": "JavaScript",
+      "homepage": null
+    },
+    {
+      "name": "cli-box-renderer",
+      "url": "https://github.com/Aotumuri/cli-box-renderer",
+      "description": null,
+      "language": "JavaScript",
+      "homepage": null
+    },
+    {
+      "name": "cli-box-prompt",
+      "url": "https://github.com/Aotumuri/cli-box-prompt",
+      "description": null,
+      "language": "JavaScript",
+      "homepage": null
+    },
+    {
+      "name": "NotEnoughItems4Sotf",
+      "url": "https://github.com/Aotumuri/NotEnoughItems4Sotf",
+      "description": "A data pack that adds a lot of items.",
+      "language": "mcfunction",
+      "homepage": null
+    },
+    {
+      "name": "MoreEasily4Sotf",
+      "url": "https://github.com/Aotumuri/MoreEasily4Sotf",
+      "description": "A data pack that adds achievements and other features to make Survival of the Fittest more fun and easier.",
+      "language": "mcfunction",
+      "homepage": null
+    },
+    {
+      "name": "path-tracer",
+      "url": "https://github.com/Aotumuri/path-tracer",
+      "description": "jsonの位置情報を視覚的にわかりやすくします。",
+      "language": null,
+      "homepage": null
+    }
+  ]
+}
