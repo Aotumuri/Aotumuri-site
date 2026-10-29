@@ -87,7 +87,7 @@ export default function Works() {
       </article>
 
       <div className="own-projects-heading">
-        <h3>作ったもの</h3>
+        <h3>その他作ったもの</h3>
         <span>公開しているものから、いくつか。</span>
       </div>
       <div className="project-groups">
